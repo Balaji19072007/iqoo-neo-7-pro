@@ -25,6 +25,7 @@ nav{
 }
 .logo{
     flex-basis: 20%;
+    color: yellow;
 }
 .logo h1{
     width: 150px;
